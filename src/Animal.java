@@ -12,15 +12,7 @@ public class Animal {
         return animalName;
     }
 
-    public void setAnimalName(String animalName) {
-        this.animalName = animalName;
-    }
-
     public int getAge() {
         return age;
-    }
-
-    public void setAge(int age) {
-        this.age = age;
     }
 }
